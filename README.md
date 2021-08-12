@@ -5,7 +5,7 @@ This is an adaptation of the 2019 bootcamp's repo: https://github.com/avoerman/2
 ## API
 
 ```sh
-cd scores-ui
+cd scores-api
 npm install
 npm run start
 ```
