@@ -9,3 +9,11 @@ cd scores-api
 npm install
 npm run start
 ```
+
+## UI
+
+```sh
+cd scores-ui
+npm install
+npm run start
+```
